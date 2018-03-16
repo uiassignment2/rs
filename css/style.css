@@ -99,6 +99,9 @@ li a:hover {
     font-size: 28px; /* Increased text to enable scrolling */
     padding: 0px 10px;
 }
+#main h2{
+    color:red;
+}
 .topnav .search-container button:hover {
   background: #ccc;
 }
